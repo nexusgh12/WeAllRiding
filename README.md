@@ -1,5 +1,5 @@
 # WeAllRiding
-
+자전거 라이딩 모집 커뮤니티
 ![image](https://user-images.githubusercontent.com/70796139/166182101-ab408f5c-66dd-4dbf-933d-4f2365c582bc.png)
 
 ![image](https://user-images.githubusercontent.com/70796139/166182118-3dcbaa19-ad23-4a2f-bc68-cf2b7389b167.png)
